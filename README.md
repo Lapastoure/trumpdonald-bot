@@ -6,8 +6,14 @@ Simple selenium script that forever blows Donald's strange hair.
 
 Install dependencies in a Python virtualenv:
 
-    `pip install -r requirements.txt`
+    $ pip install -r requirements.txt
 
 Run it:
 
-    `python trump.py`
+    $ python trump.py
+
+If you must, quit it:
+
+    $ ctrl-z
+
+Or just close the browser.
