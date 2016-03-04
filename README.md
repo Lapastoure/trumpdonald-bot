@@ -2,6 +2,9 @@
 
 Simple selenium script that forever blows Donald's strange hair.
 
+![](screenshot.gif)
+
+
 ## Set-up
 
 Install dependencies in a Python virtualenv:
