@@ -9,7 +9,10 @@ Install dependencies in a Python virtualenv:
     $ pip install -r requirements.txt
 
 Run it:
-    # python trump [num_processes]
+
+    # Example:
+    # python trump.py [num_processes]
+
     $ python trump.py 1
 
 If you must, quit it:
