@@ -16,7 +16,6 @@ try:
 
     while True:
         wd.find_element_by_id("can").click()
-        wait(0.1)
 finally:
     raise Exception("Test exited.")
 
