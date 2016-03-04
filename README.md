@@ -14,6 +14,6 @@ Run it:
 
 If you must, quit it:
 
-    $ ctrl-z
+    $ ctrl-C
 
 Or just close the browser.
